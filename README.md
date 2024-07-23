@@ -4,6 +4,12 @@
 
 I used [No machine] for remote access
 
+```bash
+wget https://download.nomachine.com/download/8.12/Raspberry/nomachine_8.12.12_3_arm64.deb
+sudo dpkg -i nomachine_8.12.12_3_arm64.deb
+
+```
+
 ##### Resizing The display
 
 My monitor or laptop display has a `1366x768` display
